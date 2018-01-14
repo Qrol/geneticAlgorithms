@@ -1,1 +1,1 @@
-# genetickAlgorithms
+# genethickAlgorithms
